@@ -1,0 +1,49 @@
+.Myform_{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0TgjUdlNnOiBr0ke_g_Vmjmjv6StiVo36g&usqp=CAU);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 80px;
+    border-style: groove;
+    padding: 10px;
+  
+}
+.container10 {
+    padding: auto;
+    margin: 5px;
+  
+  }
+  
+  form {
+    margin-bottom: 2px;
+  }
+  
+  input, textarea {
+    margin: 2px;
+    width: 130px;
+
+  
+  }
+
+ 
+  .Name_{border: 2px solid;
+border-color: rgb(173, 123, 123);}
+  .Mobile_{border: 2px solid;
+border-radius: 10px;}
+.Textarea_ {
+    width: 200px;
+height: 30px;}
+.feedback_{font: optional;
+    color: rgb(248, 8, 8);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcp-HRqKijhg_BnNqJQuhKsnaquLCmvy4dg&usqp=CAU);font-style: oblique;
+    padding: 3px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;}
+    .Submit_{
+        background-image: url(https://www.freepnglogos.com/uploads/button-png/login-button-icon-png-icons-and-png-backgrounds-30.png);
+        /* background-blend-mode: screen; */
+        border: 5px solid;
+        padding: 10px;
+        margin: 5px;
+        line-break:auto;
+        width: 150px;
+        color: rgb(199, 46, 32);}

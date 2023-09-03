@@ -1,0 +1,126 @@
+
+
+.contentall_1{
+
+    height: 100;
+    width: 100%;
+}
+.chandamama_con{
+    
+    text-align: center;
+}
+.date_con{display: block;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: large;
+}
+.chandamama_img{text-align: center;
+
+}
+.i_1{margin: 5px;
+    height: 100px;
+    width: 100px;
+}
+.colourr{ border: 1px solid;
+    border-radius: 50px;
+    border-style: dotted;
+border-color:blueviolet;
+    font-weight: 200;
+    font-variant: initial;
+    font-variant-alternates: historical-forms;
+    padding: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;}
+    .launcher{position: relative;
+        display: inline;
+        /* text-align: center; */
+        top: 2px;
+          padding: 2px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 50px;
+    }
+    .chandamama_img2{text-align: center;
+
+    }
+    
+    .ch51{
+        height: 50px;
+    width: 50px;}
+
+    .ch52{display: inline;
+        text-align: left;
+    padding: auto;}
+
+    .box_1{padding: 1px;
+        display: block;
+        text-align: center;}
+
+.block_text{position: relative;
+    display: block;
+    text-align: center;
+    padding: 15px;
+   background-image: url(https://w7.pngwing.com/pngs/195/337/png-transparent-three-dimensional-square-background-texture-angle-other-thumbnail.png);
+
+}
+.border_text{display: inline-block;
+    padding: 1px;
+    border: 1px solid;
+    height: 300px;
+    width: 250px;
+    grid-area: 120px;
+    grid-template-columns: max-content;
+    /* border-width: 50px; */
+}
+.text_size{font-size: 20px;
+    padding-bottom: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button_c{
+    margin: 5px;  background-color: #000;
+    color: #fff;
+    /* padding: 10px 20px; */
+    height: 30px;
+    width: 150px;
+    /* text-align: center; */
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    cursor: pointer;
+}
+/* blink css */
+.button_c1{font-size: 10px;}
+.launcher_{
+    text-align: center;
+    border: 1px;
+    padding: 5px;
+    margin-right: 80px;
+ border-style: dotted dashed solid double;   
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  
+  .button_c:hover {
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; } 
+ }
+  /* for chandrya progra blink css */
+  .blinkch:hover {
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  .Submit_:hover {
+    animation: blink 1s infinite;
+  }
+  .u1{text-align: center;}
+  .u2{text-align: center;}
+  .u3{text-align: center;}

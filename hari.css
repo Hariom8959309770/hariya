@@ -1,0 +1,267 @@
+/* .body{position: flex;
+  width: 75%;
+  background-color: #251e8b;
+  color: #251e8b; */
+/* } */
+.adsss{display: block;
+  text-align: left;}
+  .adsss_1{display: inline;
+    text-align: left;}
+
+.contentall{position: flex;
+  text-align: center;
+  text-decoration: lightslategray;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  width: auto;
+  height: auto;
+}
+.chandrayan_program {
+  text-align: center;
+  font-size: 250%;
+  font-variant: small-caps;
+  color: rgb(76, 35, 116);
+  text-decoration: overline;
+  text-overflow: ellipsis;
+}
+
+.chandrayan_program1 {
+  padding: 15px;
+  background-attachment: fixed;
+  text-align: center;
+  text-shadow: 10cm 50cqb;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: oblique;
+  font-size-adjust: calc(100px 300px);
+}
+.intoduction {
+  /* text-align: right; */
+  margin-bottom: 5px;
+  text-align: left;
+  color: rgb(255, 0, 0);
+  border: 20cm darkgray darkolivegreen outset;
+  border-radius: 40cm;
+  font-kerning: small-caps;
+  text-decoration: justify;
+  /* font-variant-position: calc(20px 20px); */
+  font-size: large;
+  font-weight: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.chandrayaan_1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #310b9b;
+  background-color: #cad1d3;
+  border-radius: 100%;
+}
+
+
+.p_1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 350;
+  text-decoration: double;
+}
+
+.hariom {
+  height: 200px;
+  width: 400px;
+  box-sizing: content-box;
+  box-sizing: border-box;
+  background-color: rgb(196, 121, 121);
+  color: aqua;
+  border: 10px;
+  image-resolution: 1%;
+}
+
+.logo {
+  background-image: url("");
+  background-repeat: no-repeat;
+  height: 10px;
+  width: 10px;
+}
+
+.nasa {padding: 3px;
+  margin-top: 50px;
+  width: 100%;
+  height: 200px;
+  border-radius: 15px;
+  border-style: double groove;
+  border-bottom: 10px;
+  box-sizing:border-box;
+  border-collapse: separate;
+  border-color: #910300b2;
+ border-spacing: 5cap;
+}
+nav {
+  background-color: #000;
+  height: 8%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.container {padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {height: 40px;
+  width: 9vmax;
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.nav-links li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav-links li a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  color: hsl(0, 98%, 48%);
+  text-decoration: none;
+  padding: 10px 15px;
+  border: none;
+  cursor: alias;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #251e8b;
+  min-width: 160px;
+  max-width: 200px;
+  margin-top: 10px;
+  margin-left: -100px;
+  border: 1px solid #a50d0d;
+  z-index: 1;
+}
+
+.dropdown-content li {
+  list-style: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.dropdown-content li:hover {
+  background-color: #eee;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.cta {
+  background-color: #110eb1;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.flag{height: 100px;
+width: 25%;
+opacity: 100%;
+background-color: transparent;}
+
+.flag_1{text-align: right;
+position: relative;}
+
+.buttonmore{
+  text-align: center;
+
+}
+#video-player {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+video {
+  width: 60%;
+  height: 60%;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+button {
+  background-color: #3a08c2;
+  color: #c0abab;
+  border: none;
+  padding: 10px 20px;
+  cursor: grabbing;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+label {
+  font-size: 16px;
+}
+.boxing{padding-bottom: 20px;
+  background-color: #e9eae4;
+  background-size: 250px;
+  background-blend-mode:soft-light;
+  background-image: url(https://e7.pngegg.com/pngimages/127/576/png-clipart-white-spaceship-launching-illustration-space-shuttle-program-spacecraft-rocket-launch-outer-space-flying-rocket-industry-rocket-launching-thumbnail.png);
+  color: rgb(0, 0, 240);
+}
+.font_1{background-color: #59577e;
+  background-image: url(https://e0.pxfuel.com/wallpapers/597/253/desktop-wallpaper-chandrayaan-2-launch-from-india-s-second-moon-mission-isro-thumbnail.jpg);
+  background-blend-mode: screen;
+}
+.vid_1{background-image: url(https://images.deccanherald.com/deccanherald%2F2023-08%2F900a4e66-1ec1-4398-97de-4c9b376afb82%2FS_Somanath.jpg?format=webp&dpr=1.0&q=70&w=900);
+  background-color: #ede6fb;
+background-size: 250px;
+padding: 10px;}
+.loding{
+  text-align: center;
+}
+
+/* #loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  z-index: 999;
+}
+
+#loader img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
